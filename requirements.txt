@@ -1,0 +1,6 @@
+certifi @ file:///C:/ci_311/certifi_1676421629969/work/certifi
+mypy==1.1.1
+mypy-extensions==1.0.0
+numpy==1.24.2
+typing_extensions==4.5.0
+wincertstore==0.2
